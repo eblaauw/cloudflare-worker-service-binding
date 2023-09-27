@@ -1,0 +1,8 @@
+name = "consumer"
+main = "src/index.js"
+
+compatibility_date = "2023-09-22"
+
+services = [
+  { binding = "API_SERVICE", service = "worker" }
+]
